@@ -1,1 +1,2 @@
-kubeadm reset
+echo "Uninstall Kubernetes ..."
+sleep 20
