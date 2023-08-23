@@ -12,7 +12,10 @@
         "title": "list available kubeadm versions",
         "text": "step1.md"
       }
-    ]
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
   },
   "backend": {
     "imageid": "kubernetes-kubeadm-2nodes"

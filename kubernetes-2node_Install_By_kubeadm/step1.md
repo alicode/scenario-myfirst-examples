@@ -1,2 +1,3 @@
-
-Run `k get pod -A`
+```
+apt-cache madison kubeadm
+```
