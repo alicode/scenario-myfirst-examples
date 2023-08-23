@@ -6,7 +6,13 @@
       "text": "intro.md",
       "foreground": "foreground.sh",
       "background": "background.sh"
-    }
+    },
+    "steps": [
+      {
+        "title": "list available kubeadm versions",
+        "text": "step1.md"
+      }
+    ]
   },
   "backend": {
     "imageid": "kubernetes-kubeadm-2nodes"
