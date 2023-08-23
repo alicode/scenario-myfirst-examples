@@ -11,6 +11,30 @@
       {
         "title": "list available kubeadm versions",
         "text": "step1.md"
+      },
+      {
+        "title": "controlplane: install cotnainerd and kubeadm",
+        "text": "step2.md"
+      },
+      {
+        "title": "controlplane: init control plain",
+        "text": "step3.md"
+      },
+      {
+        "title": "controlplane: get kubeconfig",
+        "text": "step4.md"
+      },
+      {
+        "title": "node01: install components",
+        "text": "step5.md"
+      },
+      {
+        "title": "node01: join controlplane",
+        "text": "step6.md"
+      },
+      {
+        "title": "controlplane:  Install cni (cillium)",
+        "text": "step7.md"
       }
     ],
     "finish": {
